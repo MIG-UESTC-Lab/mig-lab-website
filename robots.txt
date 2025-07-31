@@ -1,1 +1,1 @@
-Sitemap: https://mig-uestc-lab.github.io/mig-lab-website/sitemap.xml
+Sitemap: https://mig-uestc-lab.github.io/sitemap.xml
