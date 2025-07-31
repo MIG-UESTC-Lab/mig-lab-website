@@ -5,6 +5,6 @@
 
   # MIG-UESTC-Lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[mig-uestc-lab.github.io/mig-lab-website](https://mig-uestc-lab.github.io/mig-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
